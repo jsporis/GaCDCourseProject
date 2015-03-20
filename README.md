@@ -1,4 +1,4 @@
-# GaCDCourseProject
+# Getting and Cleaning Data Course Project - Tidy Data Set
 The purpose of the R_Analysis script process is to pare down the “Human Activity Recognition Using Smartphones Dataset.” The goal is to summarize the average of each variable for both the individuals who participated in the study, and the activities that were tracked through the study.  
 
 
